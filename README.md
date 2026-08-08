@@ -32,7 +32,7 @@ A production-grade semantic search application built with **Streamlit** and **Pi
 
 | Upload & Index | Natural Language Query | Search Results |
 |:---:|:---:|:---:|
-| ![Upload screenshot](screenshots/upload.png) | ![Query screenshot](screenshots/query.png) | ![Results screenshot](screenshots/results.png) |
+| ![Upload screenshot](screenshots/Upload.png) | ![Query screenshot](screenshots/Preview.png) | ![Results screenshot](screenshots/Results.png) |
 
 > Replace the file names above with the actual images inside the `screenshots/` folder if they differ.
 
