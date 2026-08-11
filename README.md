@@ -41,7 +41,7 @@ A production-grade semantic search application built with **Streamlit** and **Pi
 The app is split into a thin UI layer and a testable core, so business logic never depends on Streamlit:
 
 ```
-app.py                      # Streamlit UI — rendering only
+app.py                      # Streamlit UI - rendering only
 src/
 ├── config.py                # Typed, validated settings (env-driven)
 ├── document_loader.py       # Parses raw text into Document objects
