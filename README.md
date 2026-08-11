@@ -34,7 +34,6 @@ A production-grade semantic search application built with **Streamlit** and **Pi
 |:---:|:---:|:---:|
 | ![Upload screenshot](screenshots/Upload_File.png) | ![Query screenshot](screenshots/File_Uploaded_to_Pinecone.png). | ![Results screenshot](screenshots/Retrieval.png) |
 
-
 ---
 
 ## 🏗️ Architecture
