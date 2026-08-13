@@ -60,7 +60,7 @@ tests/                        # Unit tests (mocked Pinecone — no network/API k
 
 - **Integrated embeddings** - Pinecone embeds text server-side (`multilingual-e5-large`); no separate embedding API calls to manage.
 - **Config validation at startup** - missing/placeholder API keys fail fast with a clear error, not a cryptic SDK traceback mid-request.
-- **Retry with backoff** — transient network errors on upsert/search are retried automatically (`tenacity`).
+- **Retry with backoff** - transient network errors on upsert/search are retried automatically (`tenacity`).
 - **Batched uploads** — large files are chunked to stay under Pinecone's per-request limits.
 - **Typed exceptions** — `DocumentParsingError`, `VectorStoreUpsertError`, etc., so the UI can show specific, actionable messages instead of generic failures.
 - **20 unit tests, 88% coverage** — Pinecone calls are mocked, so the suite runs offline in CI.
