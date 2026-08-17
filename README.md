@@ -163,7 +163,7 @@ Semantic search retrieves results based on meaning rather than exact keyword mat
 - GitHub: [@Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
 - LinkedIn: [chowdri-furkhan](https://linkedin.com/in/chowdri-furkhan/)
 
-Feedback, issues, and pull requests are welcome — feel free to open one!
+Feedback, issues, and pull requests are welcome - feel free to open one!
 
 ---
 
