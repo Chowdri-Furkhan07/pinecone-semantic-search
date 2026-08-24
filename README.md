@@ -49,7 +49,7 @@ src/
 ├── search_service.py        # Orchestrates loader + client for the UI
 ├── exceptions.py            # App-specific exception hierarchy
 └── logger.py                 # Structured logging
-tests/                        # Unit tests (mocked Pinecone — no network/API key needed)
+tests/                        # Unit tests (mocked Pinecone - no network/API key needed)
 ```
 
 **Why this structure:** each layer can be tested and swapped independently. `document_loader.py` doesn't know Pinecone exists; `pinecone_client.py` doesn't know Streamlit exists. `search_service.py` is the only module the UI talks to.
