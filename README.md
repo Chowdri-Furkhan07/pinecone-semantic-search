@@ -169,4 +169,4 @@ Feedback, issues, and pull requests are welcome - feel free to open one!
 
 ## 📝 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
